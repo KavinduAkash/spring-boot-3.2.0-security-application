@@ -1,4 +1,4 @@
-package com.ceyentra.springsecurityapplication;
+package com.ceyentra.springsecurityapplication.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
